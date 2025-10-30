@@ -34,7 +34,7 @@ export default function Home() {
   ];
 
   return (
-    <main className="flex flex-col h-full w-full">
+    <main className="flex flex-col h-full w-full cursor-custom">
 
 
       {/* Comapair the past and presnt lake */}
