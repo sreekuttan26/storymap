@@ -21,7 +21,7 @@ export default function Home() {
       quote: "This lake has always provided drinking water for our cattle. We washed our clothes here. The temple stood there even in my great grandfather’s time. During droughts, we would offer grains to the deity and we were always sure to be blessed with rains.Located at the low end of the rocky surface, which was one continuous structure unlike now, the temple pit was always filled with water and was sacred. We would take a few drops and sprinkle it on our heads in reverence to the deity. Water no longer collects here as much or as regularly.",
 
       designation: "Sampigehalli resident & temple devotee",
-      src: "/user1.jpg"
+      src: "/user1.JPG"
     },
     {
       name: "Shivakumar",
